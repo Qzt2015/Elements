@@ -1,0 +1,15 @@
+C:\Users\qtz\Desktop\电力设备\Elements\bin\Debug\Elements.dll
+C:\Users\qtz\Desktop\电力设备\Elements\bin\Debug\Elements.pdb
+C:\Users\qtz\Desktop\电力设备\Elements\obj\Debug\Elements.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\电力设备\Elements\obj\Debug\Elements.dll
+C:\Users\qtz\Desktop\电力设备\Elements\obj\Debug\Elements.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\Elements\bin\Debug\Elements.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\Elements\bin\Debug\Elements.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\Elements\obj\Debug\Elements.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\Elements\obj\Debug\Elements.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\Elements\obj\Debug\Elements.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\Elements\bin\Debug\Elements.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\Elements\bin\Debug\Elements.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\Elements\obj\Debug\Elements.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\Elements\obj\Debug\Elements.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\Elements\obj\Debug\Elements.pdb

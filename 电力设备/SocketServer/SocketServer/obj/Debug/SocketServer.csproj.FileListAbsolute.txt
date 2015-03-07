@@ -1,0 +1,17 @@
+C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache

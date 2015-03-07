@@ -1,0 +1,5 @@
+H:\快盘\我的资料\第三次\AdGraph\obj\Debug\ResolveAssemblyReference.cache
+H:\快盘\我的资料\第三次\AdGraph\bin\Debug\AdGraph.dll
+H:\快盘\我的资料\第三次\AdGraph\bin\Debug\AdGraph.pdb
+H:\快盘\我的资料\第三次\AdGraph\obj\Debug\AdGraph.dll
+H:\快盘\我的资料\第三次\AdGraph\obj\Debug\AdGraph.pdb

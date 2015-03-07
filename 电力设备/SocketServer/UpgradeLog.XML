@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SocketServer">
+</Property><Property Name="解决方案文件" Value="C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\SocketServer.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\SocketServer.suo">
+</Property><Property Name="Date" Value="2014年6月7日">
+</Property><Property Name="Time" Value="16:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SocketServer.sln" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SocketServer.suo" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer.suo">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\SocketServer.csproj" Description="项目文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\SocketServer.csproj">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Form1.cs" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Program.cs" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Form1.resx" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketServer\Backup\SocketServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="SocketServer" Source="SocketServer\SocketServer.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\SocketServer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="SocketServer" Source="SocketServer\SocketServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SocketServer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="SocketServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer\SocketServer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,36 @@
+C:\Users\qtz\Desktop\电力设备\电力设备\bin\Debug\电力设备.exe
+C:\Users\qtz\Desktop\电力设备\电力设备\bin\Debug\电力设备.pdb
+C:\Users\qtz\Desktop\电力设备\电力设备\bin\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\电力设备\电力设备\bin\Debug\Elements.dll
+C:\Users\qtz\Desktop\电力设备\电力设备\bin\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\电力设备\电力设备\bin\Debug\Elements.pdb
+C:\Users\qtz\Desktop\电力设备\电力设备\obj\x86\Debug\电力设备.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\电力设备\电力设备\obj\x86\Debug\DrawElements.Form1.resources
+C:\Users\qtz\Desktop\电力设备\电力设备\obj\x86\Debug\电力设备.Properties.Resources.resources
+C:\Users\qtz\Desktop\电力设备\电力设备\obj\x86\Debug\电力设备.csproj.GenerateResource.Cache
+C:\Users\qtz\Desktop\电力设备\电力设备\obj\x86\Debug\电力设备.exe
+C:\Users\qtz\Desktop\电力设备\电力设备\obj\x86\Debug\电力设备.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\电力设备.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\电力设备.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\Elements.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\Elements.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\DrawElements.Form1.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.Properties.Resources.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.csproj.GenerateResource.Cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\电力设备.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\电力设备.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\Elements.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\bin\Debug\Elements.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.csprojResolveAssemblyReference.cache
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\DrawElements.Form1.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.Properties.Resources.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第四次）\201110010115 邱智韬（第三次）\电力设备\电力设备\obj\x86\Debug\电力设备.csproj.GenerateResource.Cache

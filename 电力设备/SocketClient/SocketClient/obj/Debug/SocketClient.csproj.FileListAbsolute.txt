@@ -1,0 +1,9 @@
+C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\qtz\Desktop\C＃Socket同步套接字字符通信\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SocketClient.Form1.resources
+obj\Debug\SocketClient.Properties.Resources.resources
+obj\Debug\SocketClient.csproj.GenerateResource.Cache
+bin\Debug\SocketClient.exe
+bin\Debug\SocketClient.pdb
+obj\Debug\SocketClient.exe
+obj\Debug\SocketClient.pdb

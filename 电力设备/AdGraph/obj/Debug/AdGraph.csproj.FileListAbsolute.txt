@@ -1,0 +1,12 @@
+E:\LSGO\第三次  尤\AdGraph\bin\Debug\AdGraph.dll
+E:\LSGO\第三次  尤\AdGraph\bin\Debug\AdGraph.pdb
+E:\LSGO\第三次  尤\AdGraph\obj\Debug\AdGraph.dll
+E:\LSGO\第三次  尤\AdGraph\obj\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\电力设备\AdGraph\bin\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\电力设备\AdGraph\bin\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\电力设备\AdGraph\obj\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\电力设备\AdGraph\obj\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\AdGraph\bin\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\AdGraph\bin\Debug\AdGraph.pdb
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\AdGraph\obj\Debug\AdGraph.dll
+C:\Users\qtz\Desktop\201110010115 邱智韬（第三次）\201110010115 邱智韬（第三次）\电力设备\AdGraph\obj\Debug\AdGraph.pdb
